@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,date_of_birth,gender,province,city,postal_code,phone_number,health_card_number,primary_diagnosis,blood_type,last_visit_date
+1001,Liam,Tremblay,1985-04-12,M,QC,Montreal,H2X 1Y4,514-555-0142,TREL 8504 1215,Type 2 Diabetes,O+,2026-09-14
+1002,Emma,Gagnon,1992-11-28,F,ON,Ottawa,K1S 5B6,613-555-0198,8492-301-492-AB,Asthma,A+,2026-10-02
+1003,Noah,Roy,1978-07-03,M,BC,Vancouver,V6B 2W9,604-555-0114,9182 736 450,Hypertension,B+,2026-08-21
+1004,Olivia,Bouchard,2001-02-19,F,AB,Calgary,T2P 1J9,403-555-0176,48291-0384,Seasonal Allergies,O-,2026-11-05
+1005,Lucas,Smith,1964-09-30,M,ON,Toronto,M5V 2T6,416-555-0133,3910-482-719-CD,Osteoarthritis,A-,2026-07-19
+1006,Chloé,Côté,1989-12-08,F,QC,Quebec City,G1R 4P5,418-555-0165,COTC 8962 0821,Hypothyroidism,AB+,2026-10-28
+1007,Ethan,MacDonald,1955-05-15,M,NS,Halifax,B3H 4R2,902-555-0189,7382910482,Atrial Fibrillation,O+,2026-09-30
+1008,Ava,Singh,1996-08-24,F,MB,Winnipeg,R3C 4T3,204-555-0122,104-829-374,Migraine,B-,2026-11-10
+1009,Mason,Pelletier,1971-01-17,M,SK,Saskatoon,S7K 1J5,306-555-0150,829 374 610,Hyperlipidemia,A+,2026-06-12
+1010,Sophia,Chen,1983-06-09,F,BC,Victoria,V8W 1N6,250-555-0191,9847 261 530,Anxiety Disorder,O+,2026-10-15
